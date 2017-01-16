@@ -1,0 +1,25 @@
+[{
+        "alocacaoID": "1",
+        "projetoID": "1",
+        "PID": "11036009",
+        "auditoriaID": "1",
+        "dataInicio": "2017-01-16T00:00:00.000Z",
+        "dataFim": "2017-01-31T00:00:00.000Z"
+    },
+    {
+        "alocacaoID": "2",
+        "projetoID": "1",
+        "PID": "11344509",
+        "auditoriaID": "1",
+        "dataInicio": "2017-01-16T00:00:00.000Z",
+        "dataFim": "2017-01-31T00:00:00.000Z"
+    },
+    {
+        "alocacaoID": "2",
+        "projetoID": "1",
+        "PID": "11508576",
+        "auditoriaID": "1",
+        "dataInicio": "2017-01-16T00:00:00.000Z",
+        "dataFim": "2017-01-31T00:00:00.000Z"
+    }
+]

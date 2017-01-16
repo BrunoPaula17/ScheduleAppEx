@@ -1,0 +1,19 @@
+[{
+        "cargoID": "1",
+        "nome": "Associate Software Engineer",
+        "BRC": "1",
+        "Nivel": 12
+    },
+    {
+        "cargoID": "2",
+        "nome": "Software Engineer",
+        "BRC": "2",
+        "Nivel": 11
+    },
+    {
+        "cargoID": "3",
+        "nome": "Senior Software Engineer",
+        "BRC": "3",
+        "Nivel": 10
+    }
+]

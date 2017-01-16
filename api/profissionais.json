@@ -1,0 +1,22 @@
+[{
+        "pid": "11036009",
+        "nome": "Bruno de Paula",
+        "email": "b.schneider.de.paula@avanade.com",
+        "cargoID": "3",
+        "telefone": "11 9 6868 6868"
+    },
+    {
+        "pid": "11344509",
+        "nome": "João Silva",
+        "email": "joao.silva@avanade.com",
+        "cargoID": "3",
+        "telefone": "11 9 8787 8787"
+    },
+    {
+        "pid": "11508576",
+        "nome": "Roberto Viana",
+        "email": "roberto.viana@avanade.com",
+        "cargoID": "2",
+        "telefone": "11 9 0202 8181"
+    }
+]
